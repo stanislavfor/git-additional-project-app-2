@@ -12,6 +12,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+<<<<<<< HEAD
 .logo {
     display: inline-block;
     margin-bottom: 20px;
@@ -33,6 +34,8 @@ body {
     margin: 0;
 }
 
+=======
+>>>>>>> parent of 0299849 (added logo image)
 textarea {
     width: 99%;
     height: 200px;
